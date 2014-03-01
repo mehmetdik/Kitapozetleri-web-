@@ -1,0 +1,165 @@
+
+<html>
+<head>
+<title>Köprü</title>
+<style>
+div#alt { margin-bottom:10px; font-family:Tahoma; font-size:14px;}
+ul#ust { width:1200px; margin:5 auto; overflow:hidden; list-style:none; font-family:Tahoma; background-image: url(background.gif); }
+ul#ust li { float:left; margin:0 60px; height:14px; padding:10px 60px 15px 10px;}
+ul#ust li a:link, ul#ust li a:visited { font-weight:bold; color:#0000FF; text-decoration:none; }
+ul#ust li a:hover{ color:black; background-color:#FFF; border:5px inset red;}
+</style>
+<style type="text/css">
+
+
+
+
+.urbangreymenu{
+width: 200px;height: 1000px; /*width of menu*/
+}
+
+.urbangreymenu .headerbar{
+font: bold 13px Verdana;
+color: white;
+background: #606060 url(http://i.imgur.com/zyqcJ.gif) no-repeat 8px 6px; /*last 2 values are the x and y coordinates of bullet image*/
+margin-bottom: 0; /*bottom spacing between header and rest of content*/
+text-transform: uppercase;
+padding: 7px 0 7px 31px; /*31px is left indentation of header text*/
+}
+
+.urbangreymenu ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+margin-bottom: 0; /*bottom spacing between each UL and rest of content*/
+}
+
+.urbangreymenu ul li{
+padding-bottom: 3px; /*bottom spacing between menu items*/
+}
+
+.urbangreymenu ul li a{
+font: normal 15px Arial;
+color: black;
+background: #E9E9E9;
+display: block;
+padding: 10px 0;
+line-height: 20px;
+padding-left: 20px; /*link text is indented 8px*/
+text-decoration: none;
+}
+
+.urbangreymenu ul li a:visited{
+color: black;
+}
+
+.urbangreymenu ul li a:hover{ /*hover state CSS*/
+color: white;
+background: black;
+}
+
+</style>
+</head>
+<body bgcolor="black">
+<img  height=300 width=1330 src="tema/as.jpg"/>
+<div id="alt">
+<ul id="ust">
+<li><a href="index.html">Ana Sayfa</a></li>
+<li><a href="sefiller.html">En Çok Tıklanan Kitaba Git</a></li>
+<li><a href="kitaplar_ve_yazarları.html">Kitap ve Yazarları</a></li>
+<li><a href="web_iletişim.html">İletişim</a></li>
+</ul>
+</div>
+<td>
+<audio controls><source src="bir devrin romanı.mp3" type=></audio></td>
+<table border=0>
+<tr>
+<td><div class="urbangreymenu">
+
+<h3 class="headerbar">KİTAPLAR</h3>
+<ul>
+<li><a href="bir_devrin_romanı.html">Bir Devrin Romanı</a></li>
+<li><a href="köprü.html">Köprü</a></li>
+<li><a href="bir_ölünün_defteri.html">Bir Ölünün Defteri</a></li>
+<li><a href="savaş_ve_barış.html">Savaş ve Barış</a></li>
+<li><a href="üç_istanbul.html">Üç İstanbul</a></li>
+
+
+
+</ul>
+<img width=200 height=250 src="http://www.tulumba.com/mmTULUMBA/Images/bk/zBK965368ZY983_250.jpg"/>
+<img width=200 height=250 src="http://www.tulumba.com/mmTULUMBA/Images/bk/zBK965368ZY983_250.jpg"/>
+<img width=200 height=250 src="http://www.tulumba.com/mmTULUMBA/Images/bk/zBK965368ZY983_250.jpg"/>
+
+
+
+</div></td>
+<td background="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4QuceUE11ryC_0C1Tyk4JN29652Y7R_AT5_HBBhFQ7PyFPj1j">
+<font color="black">
+<p >
+<h1>--KÖPRÜ--</h1>
+
+<h1>1.  KİTABIN ÖZETİ   :</h1>
+
+Bayram çocuk bekleyen bir babadır. Ve karısının doğum zamanı gelmiş çatmıştır. Sancılarla beraber Bayram, karısını hastaneye götürecektir Ama fırat buna engel olmaktadır. Fırat'ın karısına geçmeyen bayram ve onun talihsiz karısı oracıkta doğurur. Fakat karısı bu acıya dayanamaz ve kan kaybından yaşamını yitirir. O günden sonra Bayram ve onun çocuğu yalnız başına yaşamaktadır. Bayram çocuğu alarak doğru Valinin yanına gider ve olayı ona söyler. Vali o günden sonra bu olaya yakınlaşır ve köprüyü yaptırabilmek için girişimlerde bulunur. Köprüyü, Erzincan'ında dışında yabancı bir mühendise yaptırmak istiyordu. Bunun için Gürcistanlı baba ve oğul mühendislerle görüşmelere başladı. Gürcü mühendisler köprüyü yapabileceklerini söyleyerek Gürcistan'a dönmüşler; fakat bir daha geri dönmemişler. Bunun üzerine Ankara dan bir mühendisle görüşmeye başladı. Mühendisler Erzincan'a gelerek köprü yerini gördü ve birkaç inceleme yaparak köprüyü yapabileceklerini söylediler. Mühendisler Ankara'ya dönerek gerekli çalışmalara başladı ve bir grup oluşturdular. Yaklaşık bir hafta bir çalışmadan sonra köprü Erzincan da değil de Ankara da yapılarak tırlar la Erzincan'a götürüleceğini söyledi. Vali buna şaşırmıştı. Fakat mühendislere güveni sonsuzdu. Valinin etrafındakiler buna inanmıyorlardı. Vali etrafındakilere aldırmayarak gerekli parayı sağlamaya çalışıyordu. Yaklaşık bir ay sonra ilk grup Erzincan'a giderek köprü ayaklarını dikmeye gelmişlerdi. Daha çalışmanın ikinci gününde gerçekleşen terörist saldırıyla personel Ankara'ya kaçmışlardır.
+
+    Öksüze bakan Elmas ile Mevlüt yasak aşklarından dolayı ailesine yakalanmaktan korkuyordu. Mevlüt, İstanbul da ki asker arkadaşını ayarlayarak İstanbul'a gitmeyi düşünüyordu. Vali gerekli gıdasal yardımı öksüze bakan aileye sağlıyordu.
+
+    Mühendisler köprünün yapımını tamamlamış ve Tırlar la Erzincan'a yola çıkmışlardı. Mühendisler ve Vali bir araya gelerek köprünün montajı hakkında konuşmaya başladılar. Köprünün kıyıdaki ilk ayağı oturtturulmuştu. Diğer ucunu ise karşıya geçirmek için, Feribottan
+
+Tahta güvertesine köprünün diğer ayağı oturtturulmuştu. Yalnız bir sorun çıkmıştı. Daha yolun yarısında feribot bozulmuştu. Çalışmalar aksamıştı. Bu da halkta tedirginlik yaratmıştı. Bir sonraki gün arıza giderilmiş ve yoğun bir çalışmayla köprü tamamlanmıştı. Yapıldığı akşam Vali, Bayram ve Öksüz köprüye oturarak ufka doğru bakıyorlardı.
+
+<h1>2. KİTABIN ANA FİKRİ : </h1>
+
+Yaptığımız bir işte azimle çalışmalı ve sonucunu sabırla beklemeliyiz ki bir sonuca ulaşabilelim.
+
+<h1>3. KİTAPTAKİ OLAYLARIN VE ŞAHISLARIN DEĞERLENDİRİLMESİ : </h1>
+
+Kitapta ki olaylar gerçek olduğundan, kitaba bir ılımlı yaklaşım yaratmaktadır. .
+
+ Vali, hırslı, iradeli ve bir şeyler yapma ve kazandırma yolunda olan birisidir.
+
+  Bayram, kendisinin çektiği acıyı başkalarının da yaşamasını istemeyen yardımsever birisidir.
+
+  Elmas ve Mevlüt, yakalanma korkusuyla sürekli yer değiştiren ürkek iki eştir.
+
+ Gürcü Mühendisler, İki yüzlü ve sözlerine inanılmayan kişilerdir.
+
+ Tür Mühendisler, PKK terörüne rağmen işlerinden yılmayan ve köprüyü yapan kişilerdir.
+
+<h1>4.  KİTAP HAKKINDAKİ ŞAHSİ GÖRÜŞLER : </h1>
+
+Kitaptaki gerçek olaylar duru ve akıcı bir üslupla anlatıldığından; Türkiye gerçeklerini de içerdiğinden bu kitabı herkese tavsiye ediyorum.
+
+<h1>5.  KİTABIN YAZARI HAKKINDA KISA BİLGİ :</h1>
+
+     Ayşe KULİN, Arnavut köy Amerikan Kız Koleji Edebiyat bölümünü bitirdi. Çeşitli gazete ve dergilerde editör ve muhabir olarak çalıştı. 1986'da sahne yapımcılığını ve sanat yönetmeliğini üstlendiği "Ayaşlı ve Kiracıları" adlı dizideki çalışmasıyla Tiyatro Yazarları Derneğinin En İyi Sanat Yönetmeliği Ödülünü kazandı.
+
+    1977 de yayınlanan "Adı : Aylin" adlı biyografik romanı ile, İstanbul Üniversitesi İletişim Fakültesi tarafından yılın yazarı seçildi.
+</td>
+<td>
+</font>
+<div class="urbangreymenu">
+
+<h3 class="headerbar">KİTAPLAR</h3>
+<ul>
+<li><a href="yağmuru_beklerken.html">Yağmuru Beklerken</a></li>
+<li><a href="Tek_adam.html">Tek Adam</a></li>
+<li><a href="şu_çılgın_türkler.html">Şu Çılgın Türkler</a></li>
+<li><a href="sefiller.html">Sefiller</a></li>
+<li><a href="yılanların_öcü.html">Yılanların Öcü</a></li>
+
+
+
+</ul>
+
+<img width=200 height=250 src="http://www.tulumba.com/mmTULUMBA/Images/bk/zBK965368ZY983_250.jpg"/>
+<img width=200 height=250 src="http://www.tulumba.com/mmTULUMBA/Images/bk/zBK965368ZY983_250.jpg"/>
+<img width=200 height=250 src="http://www.tulumba.com/mmTULUMBA/Images/bk/zBK965368ZY983_250.jpg"/>
+
+</div></td>
+ </tr>
+</p>
+</table>
+</body>
+</html>
