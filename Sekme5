@@ -1,0 +1,202 @@
+
+<html>
+<head>
+<title>Savaş Ve Barış</title>
+<style>
+div#alt { margin-bottom:10px; font-family:Tahoma; font-size:14px;}
+ul#ust { width:1200px; margin:5 auto; overflow:hidden; list-style:none; font-family:Tahoma; background-image: url(background.gif); }
+ul#ust li { float:left; margin:0 60px; height:14px; padding:10px 60px 15px 10px;}
+ul#ust li a:link, ul#ust li a:visited { font-weight:bold; color:#0000FF; text-decoration:none; }
+ul#ust li a:hover{ color:black; background-color:#FFF; border:5px inset red;}
+</style>
+<style type="text/css">
+
+
+
+
+.urbangreymenu{
+width: 200px;height: 2000px; /*width of menu*/
+}
+
+.urbangreymenu .headerbar{
+font: bold 13px Verdana;
+color: white;
+background: #606060 url(http://i.imgur.com/zyqcJ.gif) no-repeat 8px 6px; /*last 2 values are the x and y coordinates of bullet image*/
+margin-bottom: 0; /*bottom spacing between header and rest of content*/
+text-transform: uppercase;
+padding: 7px 0 7px 31px; /*31px is left indentation of header text*/
+}
+
+.urbangreymenu ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+margin-bottom: 0; /*bottom spacing between each UL and rest of content*/
+}
+
+.urbangreymenu ul li{
+padding-bottom: 3px; /*bottom spacing between menu items*/
+}
+
+.urbangreymenu ul li a{
+font: normal 15px Arial;
+color: black;
+background: #E9E9E9;
+display: block;
+padding: 10px 0;
+line-height: 20px;
+padding-left: 20px; /*link text is indented 8px*/
+text-decoration: none;
+}
+
+.urbangreymenu ul li a:visited{
+color: black;
+}
+
+.urbangreymenu ul li a:hover{ /*hover state CSS*/
+color: white;
+background: black;
+}
+
+</style>
+</head>
+<body bgcolor="black">
+<img  height=300 width=1330 src="tema/d.jpg"/>
+<div id="alt">
+<ul id="ust">
+<li><a href="index.html">Ana Sayfa</a></li>
+<li><a href="sefiller.html">En Çok Tıklanan Kitaba Git</a></li>
+<li><a href="kitaplar_ve_yazarları.html">Kitap ve Yazarları</a></li>
+<li><a href="web_iletişim.html">İletişim</a></li>
+</ul>
+</div>
+<td>
+<audio controls><source src="bir devrin romanı.mp3" type=></audio></td>
+<table border=0>
+<tr>
+<td><div class="urbangreymenu">
+
+<h3 class="headerbar">KİTAPLAR</h3>
+<ul>
+<li><a href="bir_devrin_romanı.html">Bir Devrin Romanı</a></li>
+<li><a href="köprü.html">Köprü</a></li>
+<li><a href="bir_ölünün_defteri.html">Bir Ölünün Defteri</a></li>
+<li><a href="savaş_ve_barış.html">Savaş ve Barış</a></li>
+<li><a href="üç_istanbul.html">Üç İstanbul</a></li>
+
+
+
+</ul>
+<img width=200 height=250 src="http://t2.gstatic.com/images?q=tbn:ANd9GcRy-93kqQ9OI6oyOg-gy0YSE95Pvruc4KP98K_SgFCycdnptZq1"/>
+<img width=200 height=250 src="http://t2.gstatic.com/images?q=tbn:ANd9GcRy-93kqQ9OI6oyOg-gy0YSE95Pvruc4KP98K_SgFCycdnptZq1"/>
+<img width=200 height=250 src="http://t2.gstatic.com/images?q=tbn:ANd9GcRy-93kqQ9OI6oyOg-gy0YSE95Pvruc4KP98K_SgFCycdnptZq1"/>
+<img width=200 height=250 src="http://t2.gstatic.com/images?q=tbn:ANd9GcRy-93kqQ9OI6oyOg-gy0YSE95Pvruc4KP98K_SgFCycdnptZq1"/>
+<img width=200 height=250 src="http://t2.gstatic.com/images?q=tbn:ANd9GcRy-93kqQ9OI6oyOg-gy0YSE95Pvruc4KP98K_SgFCycdnptZq1"/>
+<img width=200 height=250 src="http://t2.gstatic.com/images?q=tbn:ANd9GcRy-93kqQ9OI6oyOg-gy0YSE95Pvruc4KP98K_SgFCycdnptZq1"/>
+<img width=200 height=250 src="http://t2.gstatic.com/images?q=tbn:ANd9GcRy-93kqQ9OI6oyOg-gy0YSE95Pvruc4KP98K_SgFCycdnptZq1"/>
+<img width=200 height=250 src="http://t2.gstatic.com/images?q=tbn:ANd9GcRy-93kqQ9OI6oyOg-gy0YSE95Pvruc4KP98K_SgFCycdnptZq1"/>
+
+</div></td>
+<td background="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4QuceUE11ryC_0C1Tyk4JN29652Y7R_AT5_HBBhFQ7PyFPj1j">
+<font color="black">
+<p >
+<h1>--SAVAŞ VE BARIŞ TOLSTOY--</h1>
+ 
+Eserin Adı: Savaş ve Barış
+Yazarın Adı: Tolstoy
+Kullanılan Baskı: Birinci baskı, İstanbul, Ağustos 2001. Mavi Yelken Yayınları.
+Konusu: 1804'lerde başlayan bu olay Çar Rusya'sının Fransa ile olan savaşlarını ve devamında gelişen olayları anlatıyor.
+Ana Fikri: Her zaman kalbimizden gelen ve doğru bulduğumuz sese uymalıyız, çünkü o ses hiçbir zaman yalan söylemez.
+Türü: Savaş ve Barış, Rusya-Fransa savaşlarını konu edindiği için tarihî romandır.
+Eser Adı ile Muhteva: "Savaş" Rusya ile Fransa arasında geçen mücadeleyi anlatırken, "Barış" ise romanda geçen aşkları anlatmaktadır.
+
+<h1>Özet:</h1>
+İhtiyar Prens Bezukof uzun zamandan beri hastadır ve ölümle pençeleşmektedir. Bütün çocukları onun öldüğünde mirası nasıl dağıtacağını merak ederler ve ihtiyar adam bütün parasını çok sevdiği oğlu Piyer'e bırakmıştır. Petersburg kibar alemin de pek saygın bir yere sahip olmayan Piyer şimdi el üzerinde tutuluyordu.
+Fransa ile yapılacak savaş başlamak üzere idi ve hazırlıklar yapılıyordu. Bu savaşa Andre, Nikola, Denisof ve daha niceleri gidiyordu. Bütün alaylar hazırlandıktan sonra savaş başlar. Uzun uğraşlar sonucu Fransız orduları püskürtülür.
+Petersburg kibar aleminin sayılı isimlerinden olan Prens Vasili, güzelliği ile tanınmış kızı Elen'i, zengin olması sebebiyle Piyer ile evlendirmek istiyordu. Bir balodaonları bir araya getiren Vasili daha sonra aralarından çekildi. İlk açılan Prenses Piyer'i öptü ve sonrasında evlendiler.
+Fransız'lar bir daha taarruz edeceklerdi. Her şey Osterliç Savaşından bir gün önce hazırlandı. Savaş başladığından bir süre sonra Ruslar büyük kayıplar vermeye başlamışlardı. Sonunda Rusya yenildi, İmparator yaralanmış, Başkumandan vurulmuş, diğerleri ise kaçmışlardı. Prens Andre savaş alanında kalmıştı ve Fransızlar tarafından esir alınmıştı.
+Piyer'in kulağına Dolokof'un Elen'i lekelediği gelmişti ve o zamandan beri canı çok sıkkındı. Sofrada hep birlikte oturuyorlarken Dolokof'un elinde bulunan kâğıdı istemiş ve Dolokof'da vermeyince Piyer ona bir düello teklif etmiş, bu düelloda onu yaralamıştı. Dolokof yerde yaralı yatarken onu Nikola almıştı. Bu olaydan sonra Piyer karısı Elen'i terk etti.
+Andre'nin evine onun esir düştüğü haberi çoktan gelmişti ve oradakileri çok üzmüştü. Karısı Liza doğum dönemlerine giriyordu. Bir zaman sonra Liza'nın sancıları artmış ve doğurmasının vakti gelmişti. O anda içeriye Andre girdi. Fransızlar onu serbest bırakmışlardı. Liza'yı gördükten sonra dışarı çıkarıldı. Girdiğinde ise bir erkek çocuk dünyaya getirmiş olan Liza ölmüştü.
+Çar ile Napolyon arasındaki bağ o kadar güçlenmişti ki artık savaş olmuyor, hatta bazı kesimler Çar'ın kız kardeşlerinin birinin Napolyon ile evleneceği söylentisi bile çıkmıştı.
+Piyer Petersburg masonluğunun üyelerinden biri oldu. Mason olduktan sonra karısı Elen'in ondan af dileme niyetinde olduğunu öğrendi. Hatta bununla ilgili bir mason gelerek ona karısını kabul etmesi hakkında nasihatte bulur, eğer karısını kabul etmese bunun masonluğa uymayacağını da söyler. Piyer karşısında herkesin bir ağız birliği etmiş olduğunu anlar ve kabul eder.
+Petersbug'da düzenlenen bir baloda Andre Nataşa'yı görür ve çok beğenir. Baloda onunla birkaç kere dans eder. Balodan sonra bile onu unutamamaktadır. Piyer'in cesaretlendirmeleri ile gidip açılmaya karar verir. Önce Nataşa'nın annesine konuyu açar, kadın kabul eder. Daha sonra gidip Nataşa'ya bu konuyu açtığında kız da havalara uçmuştur. Fakat arada tek bir sorun kalmıştır, o da Andre'nin babasının düğünü bir yıl sonra yapma isteğidir. Bu bir yıl boyunca Andre yurt dışında gezmeli ve dolaşmalıdır. Nataşa bu öneriyi kabul eder ve hep onu bekleyeceğini söyler. Andre gitmeden önce gizlice nişanlanırlar.
+Andre gezide olduğu sırada Nataşa bir baloya katılır. Orada Prens Vasili'nin işe yaramaz oğlu Anatolu görür. Anatol Nataşa ile tanışmak isteğindedir. Anatol kız kardeşi Elen sayesinde Nataşa ile tanışır. Onunla uzun süre konuşur ve gelecek baloya davet eder. Nataşa konuşmadan sonra fazla ileri gittiğini düşünür ve pişman olur. Daha sonrasında davet edildiği baloya gider. Orada Anatol onu karşılar ve ona onu sevdiğini söyler. Nataşa ona nişanlı olduğunu söylediği halde adam aldırmaz. Nataşa bundan çok etkilenir ve onu sevmeye başlar. Balodan döndükten sonra olayı Sonya'ya anlatır. Sonya o adamdan kimseye hayır gelmeyeceğini, işe yaramazın teki olduğunu anlatmaya çalışsa da Nataşa onu dinlemez ve hatta ona karşı olan hakaretlerinden dolayı bozuşurlar. Sonya zamanla Nataşa'nın Anatol ile kaçma planları yaptığını anlar ve bu konuyu hemen Nataşa'nın amcasına açmaya karar verir. Gece Anatol'a Dolokof yardım ediyordu. Anatol kapıdan girip birkaç adım ilerledi. Fakat karşısına iri bir adam çıktı. Anatol kıvrak bir hareketle onun elinden kurtuldu. Nataşa, Piyer'den Anatol'un evli olduğunu duyunca bu ilişkiye son verdi ve Sonya ile konuşmaya başladılar.
+Fransa-Rusya savaşı gene başlamıştı. Bu savaşa Nikola, Andre gibi eski askerlerin yanında yeni olan Piyer de katıldı. Savaşta Fransa ilerliyor ve Lisi-Gori'ye kadar gelmeye başlıyordu. Andre Mari'ye ve ihtiyar prense bir mektup göndererek hemen Moskova'ya gitmelerini söyler.
+İhtiyar prens oradan ayrılmadan önce bir felç geçirir. Sağ tarafı tutmamaktadır. Mari hâlâ ona bakmaktadır.İhtiyar prens bu halde bazı şeylerin farkına varmaya başlar. Prenses Mari'ye çok çektirdiğini anlar, sürekli ondan özür diler. Doktor gelip onu muayene ediyordu ve bir gün onu yatağında ölü buldular.
+Mari'nin Moskova'ya gitmesine mujikler engel oluyordu. Oradan geçerken bunu gören Nikola Mari'ye yardım ederek onun oradan kurtulmasını sağladı. O anda Mari ile Nikola arasında ilk elektriklenme gerçekleşti.
+Fransız orduları Moskova'ya da yaklaşmaya başladılar. Kısa süre sonra Moskova'yı da aldılar. Herkes arabalarıyla gitmekteydi. Arkalarına baktıklarında ise Moskova yanıyordu.Andre bu savaşta çok ağır yaralanmıştı. Rostof ailesi de yüklerini arabalara yüklüyordu. Fakat daha sonra o yüklrin bir kısmını boşaltıp savaş yaralılarını almaya başladılar. Bir köyde mola verdiklerinde yaralılar boşaltıldı ve herkes dinlenmeye çıktı. Nataşa, yaralıların arasında Andre'nin de olduğunu duyunca gözüne uyku girmedi ve gidip ona baktı. Nataşa ondan yaptıklarından dolayı özür diledi ve ona onu sevdiğini söyledi. Andre'nin durumu çok ağırdı. Ateşi düşmüyordu.
+Moskova'da kalan Piyer birisine yardım etmeye çalışırken, kendisinin kundakçı olduğunu sanan askerler onu tutuklarlar ve ceza evine koyarlar. Oradan bir grup ile birlikte çıkarılırlar ve bu gruptaki bir kaç insan kurşuna dizilir. Kendisinin kurtulduğuna şaşmaktadır.
+Piyer'in karısı Elen anjin sebebiyle ölür. Yine aynı günlerde Nikola'ya bir mektup gelir ve bu Sonya'dandır. Sonya ona aşklarının artık sürmeyeceğini anlatır. Bu mektubu Nikola hemen Mari'ye götürür. Bu mektup sayesinde Nikola-Mari aşkı daha da alevlenir. Mari bundan sonra Andre'nin yanına gitmeye karar verir ve yanında küçük Nikolenka'yı da götürür. İki gün boyunca Andre'nin başından ayrılmadılar. İki gün sonra Andre öldü.
+Fransa Moskova'yı ve diğer aldığı yerleri elde tutamadı ve büyük bir ger çekiliş başlar. Bu geri çekiliş esnasında Nataşa'nın henüz on altı yaşındaki kardeşi Petiya kaçanların peşinden kovalarken kafasına kurşun alarak öldü. Rostof'lar bunun acısını da yaşamak zorunda kaldılar.
+Nataşa Andre ve Petiya'nın acısın unuttuktan sonra Piyer Mari'nin de yardımıyla Nataşa ile evlendi.
+Nikola ile Mari yaklaşık Piyer'lerin evliliğinden bir veya iki yıl sonra evlendiler. Nikola babasının girdiği borçları ve zararların hepsini kapattı. Hem de Mari'nin hiçbir hissesini satmadan.
+Nikola ile Mari'nin bir kızları olur. Nataşa ile Piyer'in ise üç kızları ve bir de erkek çocukları olur. Andre'nin oğlu Nikolenka ise Piyer'i babası olarak görüyor ve hep onu örnek alıyordu.
+
+
+<h1>Olay Örgüsü:</h1>
+- Piyer'in babasının hastalanıp ölmesi.
+- Savaş hazırlıklarının yapılması ve savaşın başlaması.
+- Piyer ile Elen'in evlenmesi.
+- Andre'nin esir düşmesi.
+- Piyer'in Dolokof ile düello yapması.
+- Andre'nin dönüşü ve Liza'nın ölümü.
+- Piyer'in Elen'i tekrar kabul etmesi
+- Andre'nin Nataşa'ya aşık olması.
+- Nataşa'nın Anatol'a aşık olması.
+- Savaşın tekrar başlaması.
+- Andre'nin tekrar ortaya çıkması.
+- Piyer'in esir düşmesi.
+- Andre'nin ölümü.
+- Nataşa ile Piyer'in evliliği.
+- Nikola ile Mari'nin evlenmesi.
+
+<h1>Şahısların Değerlendirilmesi:</h1>
+Piyer: İri yapılı, cesur bir adamdır, fakat biraz çekingendir. Babası Prens Bezukof'un nikahsız bir kadından olma çocuğudur. İlk olarak Elen'i sevmekteydi fakat daha sonra Nataşa'ya değişik duygular hissetmeye başlamıştır. Fakat Andre'den dolayı ona açılamamaktadır. Karısının ölümünden sonra ona daha da aşık olmaya başlamıştır.Andre öldüğünde evlenmişlerdir.
+Andre: Kısa boylu cesur ve akıllı bir askerdir. Prenses Liza ile evlidir. Karısı doğururken öldükten sonra Nataşa'ya açılmaya karar vermiştir. Son savaşta ağır yaralanması sebebiyle hayatını kaybetmiştir. Arkasında yetim bir çocuk bırakmıştır. Piyer'in iyi bir dostudur.
+Nikola: Çok büyük bir vatanseverdir. Ailesine çok düşkün, hep onların dediğinin olmasını isteyen bir karakterdir. Hatta bu sebepten dolayı, biraz da çıkan aksiliklerden dolayı sevdiği kızı, Sonya'yı terk etmiştir. Daha sonra gölünü Prenses Mari'ye kaptırıp onunla evlenmiştir.Savaşa askerlik yapmaya gitmiştir.
+Nataşa: Yaşadıklarından çok çabuk etkilenen bir kızdır. Aşk bakımından kararları çok değişmektedir. Önce Boris'e gönlünü kaptırır, daha sonra Andre'ye, sonrasında Anatol'a ve sonra tekrar Andre'ye dönmüştü, fakat Andre aynı günlerde ölür. Bunun etkisini üzerinden attığında Piyer'le evlenmiş ve mutlu bir yaşam sürmüşler.
+Sonya: Fakir ama çok güzel bir kızdır. Kuzeni Nikola'yı sevmektedir ve aşkı karşılıksız değildir, fakat bir süre sonra ona bir mektup yazarak ayrılmıştır. Nikola, Mari ile evlendiğinde Mari'den nefret etmeye başlmıştır.
+Mari: Biraz çirkindir, fakat vefalı bir insandır. Babasının ona o kadar çektirmesine rağmen onu ölümüne kadar yalnız bırakmamıştır. Nikola'yı sevmektedir.
+Elen: Çok güzel, fakat az huysuzdur. Erkeklerin hepsi ona hayrandır. O yaşadığı yanlış bir şeyden dolayı Piyer'le kısa süreliğine bozuşur. Daha sonrasında anjinden ölür.
+Liza: Andre'nin eşidir ve ona çok bağlıdır. Çok güzel bir kadındır ve bir o kadar da güzel huyludur. Doğum yaparken ölmektedir.
+Denisof: Oldukça cana yakın ve samimi bir insandır. Nataşa'yı sevmektedir, fakat Nataşa ona yüz vermeyince vazgeçer.
+Dolokof: Denisof'un tam tersine bir adamdır. Bir zamanlar Piyer'in arkadaşı idi, fakat Piyer'in karısı Elen'i lekelemesi sebebiyle Piyer onu arkadaşlıktan siler. Daha sonra Sonya'ya bir evlilik teklifinde bulunur fakat Sonya onu kabul etmeyince vazgeçer.
+
+<h1>Zaman:</h1>
+ Bu olay 1804'lerde başlamıştır. Fransa-Rusya savaşları dönemini anlatmaktadır.
+<h1>Mekân:</h1>
+ Olayın geçtiği veya söz edilen belirli bir yer yoktur; birkaç yer mevcuttur. Bunlar Lisi-Gori, Moskova ve St. Petersburg'dur.
+Dil, Üslûp ve Anlatım: Yazar akıcı ve sade bir dil kullanmıştır. Bu doğrultuda anlatımda açık ve akıcıdır. Yer yer süslü anlatımlara yer verilmiştir. Fakat geneli sade bir şekilde yazılmıştır.
+</td>
+<td>
+</font>
+<div class="urbangreymenu">
+
+<h3 class="headerbar">KİTAPLAR</h3>
+<ul>
+<li><a href="yağmuru_beklerken.html">Yağmuru Beklerken</a></li>
+<li><a href="Tek_adam.html">Tek Adam</a></li>
+<li><a href="şu_çılgın_türkler.html">Şu Çılgın Türkler</a></li>
+<li><a href="sefiller.html">Sefiller</a></li>
+<li><a href="yılanların_öcü.html">Yılanların Öcü</a></li>
+
+
+
+</ul>
+
+<img width=200 height=250 src="http://t2.gstatic.com/images?q=tbn:ANd9GcRy-93kqQ9OI6oyOg-gy0YSE95Pvruc4KP98K_SgFCycdnptZq1"/>
+<img width=200 height=250 src="http://t2.gstatic.com/images?q=tbn:ANd9GcRy-93kqQ9OI6oyOg-gy0YSE95Pvruc4KP98K_SgFCycdnptZq1"/>
+<img width=200 height=250 src="http://t2.gstatic.com/images?q=tbn:ANd9GcRy-93kqQ9OI6oyOg-gy0YSE95Pvruc4KP98K_SgFCycdnptZq1"/>
+<img width=200 height=250 src="http://t2.gstatic.com/images?q=tbn:ANd9GcRy-93kqQ9OI6oyOg-gy0YSE95Pvruc4KP98K_SgFCycdnptZq1"/>
+<img width=200 height=250 src="http://t2.gstatic.com/images?q=tbn:ANd9GcRy-93kqQ9OI6oyOg-gy0YSE95Pvruc4KP98K_SgFCycdnptZq1"/>
+<img width=200 height=250 src="http://t2.gstatic.com/images?q=tbn:ANd9GcRy-93kqQ9OI6oyOg-gy0YSE95Pvruc4KP98K_SgFCycdnptZq1"/>
+<img width=200 height=250 src="http://t2.gstatic.com/images?q=tbn:ANd9GcRy-93kqQ9OI6oyOg-gy0YSE95Pvruc4KP98K_SgFCycdnptZq1"/>
+<img width=200 height=250 src="http://t2.gstatic.com/images?q=tbn:ANd9GcRy-93kqQ9OI6oyOg-gy0YSE95Pvruc4KP98K_SgFCycdnptZq1"/>
+
+
+</div></td>
+ </tr>
+</p>
+</table>
+</body>
+</html>
