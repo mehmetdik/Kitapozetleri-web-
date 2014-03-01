@@ -1,0 +1,294 @@
+
+
+<html>
+<head>
+<title>Tek Adam</title>
+<style>
+div#alt { margin-bottom:10px; font-family:Tahoma; font-size:14px;}
+ul#ust { width:1200px; margin:5 auto; overflow:hidden; list-style:none; font-family:Tahoma; background-image: url(background.gif); }
+ul#ust li { float:left; margin:0 60px; height:14px; padding:10px 60px 15px 10px;}
+ul#ust li a:link, ul#ust li a:visited { font-weight:bold; color:#0000FF; text-decoration:none; }
+ul#ust li a:hover{ color:black; background-color:#FFF; border:5px inset red;}
+</style>
+<style type="text/css">
+
+
+
+
+.urbangreymenu{
+width: 200px;height: 3100px; /*width of menu*/
+}
+
+.urbangreymenu .headerbar{
+font: bold 13px Verdana;
+color: white;
+background: #606060 url(http://i.imgur.com/zyqcJ.gif) no-repeat 8px 6px; /*last 2 values are the x and y coordinates of bullet image*/
+margin-bottom: 0; /*bottom spacing between header and rest of content*/
+text-transform: uppercase;
+padding: 7px 0 7px 31px; /*31px is left indentation of header text*/
+}
+
+.urbangreymenu ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+margin-bottom: 0; /*bottom spacing between each UL and rest of content*/
+}
+
+.urbangreymenu ul li{
+padding-bottom: 3px; /*bottom spacing between menu items*/
+}
+
+.urbangreymenu ul li a{
+font: normal 15px Arial;
+color: black;
+background: #E9E9E9;
+display: block;
+padding: 10px 0;
+line-height: 20px;
+padding-left: 20px; /*link text is indented 8px*/
+text-decoration: none;
+}
+
+.urbangreymenu ul li a:visited{
+color: black;
+}
+
+.urbangreymenu ul li a:hover{ /*hover state CSS*/
+color: white;
+background: black;
+}
+
+</style>
+</head>
+<body bgcolor="black">
+<img  height=300 width=1330 src="tema/n.jpg"/>
+<div id="alt">
+<ul id="ust">
+<li><a href="index.html">Ana Sayfa</a></li>
+<li><a href="sefiller.html">En Çok Tıklanan Kitaba Git</a></li>
+<li><a href="kitaplar_ve_yazarları.html">Kitap ve Yazarları</a></li>
+<li><a href="web_iletişim.html">İletişim</a></li>
+</ul>
+</div>
+<td>
+<audio controls><source src="bir devrin romanı.mp3" type=></audio></td>
+<table border=0>
+<tr>
+<td><div class="urbangreymenu">
+
+<h3 class="headerbar">KİTAPLAR</h3>
+<ul>
+<li><a href="bir_devrin_romanı.html">Bir Devrin Romanı</a></li>
+<li><a href="köprü.html">Köprü</a></li>
+<li><a href="bir_ölünün_defteri.html">Bir Ölünün Defteri</a></li>
+<li><a href="savaş_ve_barış.html">Savaş ve Barış</a></li>
+<li><a href="üç_istanbul.html">Üç İstanbul</a></li>
+
+
+
+</ul>
+<img width=200 height=250 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnRsyY-L8cDj8lesFX5X9Oxx5tHiCxrVvWfLmaya0dQB9vz2NT"/>
+<img width=200 height=250 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnRsyY-L8cDj8lesFX5X9Oxx5tHiCxrVvWfLmaya0dQB9vz2NT"/>
+<img width=200 height=250 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnRsyY-L8cDj8lesFX5X9Oxx5tHiCxrVvWfLmaya0dQB9vz2NT"/>
+<img width=200 height=250 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnRsyY-L8cDj8lesFX5X9Oxx5tHiCxrVvWfLmaya0dQB9vz2NT"/>
+<img width=200 height=250 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnRsyY-L8cDj8lesFX5X9Oxx5tHiCxrVvWfLmaya0dQB9vz2NT"/>
+<img width=200 height=250 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnRsyY-L8cDj8lesFX5X9Oxx5tHiCxrVvWfLmaya0dQB9vz2NT"/>
+<img width=200 height=250 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnRsyY-L8cDj8lesFX5X9Oxx5tHiCxrVvWfLmaya0dQB9vz2NT"/>
+<img width=200 height=250 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnRsyY-L8cDj8lesFX5X9Oxx5tHiCxrVvWfLmaya0dQB9vz2NT"/>
+<img width=200 height=250 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnRsyY-L8cDj8lesFX5X9Oxx5tHiCxrVvWfLmaya0dQB9vz2NT"/>
+<img width=200 height=250 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnRsyY-L8cDj8lesFX5X9Oxx5tHiCxrVvWfLmaya0dQB9vz2NT"/>
+<img width=200 height=250 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnRsyY-L8cDj8lesFX5X9Oxx5tHiCxrVvWfLmaya0dQB9vz2NT"/>
+<img width=200 height=250 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnRsyY-L8cDj8lesFX5X9Oxx5tHiCxrVvWfLmaya0dQB9vz2NT"/>
+
+
+</div></td>
+<td background="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4QuceUE11ryC_0C1Tyk4JN29652Y7R_AT5_HBBhFQ7PyFPj1j">
+<font color="black">
+<p >
+
+<h1>--TEK ADAM--<h1>
+
+
+<h1>KİTABIN BÖLÜMLERİ :</h1>
+
+1 NCİ CİLT 1881-1919 DÖNEMİ
+
+2 NCİ CİLT 1919-1922 DÖNEMİ
+
+3 NCÜ CİLT 1922-1938 DÖNEMİ
+
+<h1>KİTABIN BÖLÜM BÖLÜM ÖZETİ :</h1>
+
+<h2>CİLT 1 1881-1919 DÖNEMİ:</h2>
+
+Üç çocuğunun peş peşe ölmesinden sonra Zübeyde'nin hasretle beklediği sarı saçlı mavi gözlü Mustafa bazı kaynaklara göre 1880 bazı kaynaklara göre 1881 yılında SELANİK'te bir Müslüman Mahallesi olan Ahmet Subaşı da dünyaya geldi. Mustafa'nın dünyaya geldiği sırada babası Ali Rıza Efendi kereste tüccarlığı yapıyordu. Ali Rıza Efendinin işleri ileride Rum eşkiyası yüzünden bozulmuştu. Ali Rıza Efendinin işlerini yürütememesi kendisini moral ve fizik bakımından çökertti ve Ali Rıza Efendi 47 yaşında hayata veda etti. Ali Rıza Efendi öldüğünde Mustafa 7 yaşında ve evin tek erkeğiydi.
+
+Okul zamanı geldiğinde Mustafa ilk önce annesinin gönlü olsun diye mahalle mektebine daha sonra babasının ustalıklı bir manevrasıyla Şemsi Efendi okuluna kaydedildi. Bu okulda 1891 yılına kadar okudu. Daha sonra, babasının ölümü üzerine dayısı tarafından çiftliğe götürüldü. Çiftlikte okul olmayınca ve Mustafa'nın eğitimi aksayınca, Mustafa Selanik'e teyzesinin yanına gönderilerek Mülkiye Rüştiyesine yazıldı. Fakat hocalarla olan anlaşmazlığı yüzünden okulu bıraktı ve annesinin tüm karşı çıkmalarına rağmen Askeri Rüştiyeye girdi.
+
+Mustafa rüştiyeyi çok sevmişti. Derslerinde başarılıydı ve hocaları çok iyiydi. Bir süre sonra Matematik hocası Yzb. Mustafa Efendi Mustafa'ya bütün dünyanın ilerde öğreneceği bir isim hediye etti:Kemal! O günden sonra Mustafa adı Mustafa Kemal olacaktı.
+
+Mustafa Kemal Rüştiyede iken annesi yeniden evlendi ve Mustafa Kemal bu evliliğe olumlu bakmadı. Bu yüzden evi terk edip uzak akrabaları Rukiye Hanım'ın yanına sığındı.
+
+Mustafa Kemal doğduğu şehir Selanik'ten tahsil için ilk kez ayrılarak Manastır İdadisine gitti. Burada Ömer Naci ile kendisine etkileri olan dostlukları oldu.
+
+Ömer Naci Manastır idadisinde Mustafa Kemal'i yakın arkadaşı idi ve O'na edebiyat ve hitabet aşkını aşıladı.
+
+Manastır idadisi 1898 yılında bitirdi ve 1899 yılında İstanbulda bir Harbiye'li oldu. Harbiye'deki kitapsızlığın ve bilgisizliğin Mustafa Kemal nesli üzerinde şu tepkisi oluyordu ki yokluklar ve yetersizlikler onların yetişme öğrenme ve düşünme ihtirasını kamçılıyordu.
+
+Mustafa Kemal 10 Şubat 1902'de 21 yaşında Teğmen olarak Harbiye'yi bitirdi. Dokuz yıl önce çiftlikte çalışırken kafasında yaşattığı hayal gerçek oldu.
+
+Mustafa Kemal'i okulu bitirdikten sonra kıtaya göndermediler, kurmay sınıfına ayırdılar. Erkan-i Harbiye'de sadece dersleriyle alakadar olmaz aynı zamanda memleket meseleleri ve siyasi bilgiler ile de alakadar olurdu. Mustafa Kemal 11 Ocak 1905'te akademiyi bitirdi. Çıkarttığı gazete ve arkadaşlarıyla yaptıkları gizli toplantılar sebebiyle Suriye'ye gönderildi.
+
+Suriye'de 25 nci ve 30 ncu Süvari Alaylarında staj gördüler ve kumandaya hiç karıştırılmadılar. Burada arkadaşları Dr. Mustafa ve Müfit ile "Vatan ve Hürriyet Cemiyeti"ni kurdular.
+
+Mustafa Kemal Suriye'de çok sıkılıyordu. Vatanı kurtarmak için Suriye'den gitmesi gerektiğine inanıyordu. Bunun için Şükrü Paşaya fikirlerini belirten bir mektup yazdı. Kendisini Selanik'e aldırmasını istedi. Paşadan yumuşak bir cevap gelince Yafa'dan bir yabancı vapura binerek kaçtı. Sonrada Pire'den Selanik'e geçti. O şimdi bir kıta kaçağı ve memleketine ayak basmaması istenen bir kıta sürgünüdür. 4 ay kadar Selanik'te kaldı kendini "Vatan ve Hürriyet Cemiyeti"ni "İttihat ve Terakki" cemiyeti içinde buldu ve 25 Ekim 1907'de cemiyete dahil oldu.
+
+Üçüncü ordu padişahın sürekli endişe duyduğu bir birlikti. Avrupa'ya yakındı ve Subayların yabancılarla teması kolaydı.
+
+Mustafa Kemalin buradaki hayatı Selanik - Üsküp hattı üzerinde seyahatler, Selanik'te İhtilalci İttihat ve Terakki Cemiyeti içindeki faaliyetler ve ordu kurmayındaki resmi görevleriyle geçer.
+
+Cemiyetin idarecileri ile arası pek iyi gitmedi. Fikirleri yüzünden Enver Bey tarafından geri plana itildi. İhtilal olupta meşrutiyet ilan edildiğinde Mustafa Kemal'in adı hiç duyulmadı.
+
+Mustafa Kemal Cemiyetle meşgul olan Subayların ya orduyu bırakmalarını ya cemiyetten büsbütün ayrılmalarını istiyordu. Toplantılarda: "Asıl mesele şimdi başlıyor. Asıl mesele ihtilalden sonraki meseledir. Geceler çok şeylere gebe. Ufuklarda tehlike bulutları görüyorum. Hele ordunun siyasete karışması işi artık bitmelidir. Ordu kışlasına ve siyasetçi siyaset meydanına. Halbuki bizimkiler ?." demekteydi. Bu sözler cemiyet çevresinde tepkilere yol açtı. Ona karşı şüphe ve güvensizlik arttı.
+
+Fakat Cemiyetin sivil lideri Talat Bey Mustafa Kemal'e güvenmekte ve ondan hizmet istemekteydi. Osmanlı Afrika'sını temsil eden Trablus'ta durum iyi değildi, ve oraya gönderildi. Burası bir sürgün yeriydi. Fakat sürgün yeri iyi seçilmişti. Bu onun için hem çile, hem imtihandı. Mustafa Kemal Trablus'ta görevini bitirdiğinde İtalyan uşakları dize getirilmiş, devletin otoritesi sağlanmış ve itibarı iade edilmişti.
+
+Meşrutiyete karşı ilk ayaklanma 31 Mart 1909'da patladı. 15 Nisan 1909'da Selanik'ten hareket eden Hareket Ordusu isyanı bastırdı; padişahı tahttan indirdi ve yerine Reşat isimli Şehzadeyi geçirdi. 13 Nisan irtica hareketleriyle beraber Adana ve çevresinde başlayan Ermeni karışıklıklarını da bastırıldı.
+
+1 Ekim 1911'de İtalyanlar Trablus'u abluka altına aldıklarında Enver Bey, Mustafa Kemal ve diğerleri sivil olarak Trablus'a gitti. Ancak gönüllü cepheleri oluşturarak çarpıştılar. Uşi anlaşmasının imzalanması ile tekrar İstanbul'a döndüler.
+
+Balkan Harbi Mustafa Kemal'in Selanik'te iken savunduğu fakat ittihat ve terakkinin bilhassa Enver Bey'in hoş görmediği fikirlerin doğruluğunu ne yazık ki ispatladı.
+
+Balkan Harbinden 13 Ay sonra Enver Paşa, Talat Bey, Mebusan Reisi Halil Bey ve Sadrazam Sait Halim Paşa padişaha bile haber vermeden Almanlar ile ittifak yaptılar. Daha sonra iki Alman zırhlısının boğaza demirlemesi ve bunlara Türkçe isimler verilerek Rus limanlarının bombardıman etmesi ile Osmanlı İmparatorluğu fiilen Birinci Dünya Harbine girdi.
+
+Mustafa Kemal bu sırada Sofya Ateşe Militerliğindeydi ve kendisine vatana ve cepheye dönme yolu görünmüştü.
+
+Mustafa Kemal Çanakkale cephesinde ilk savaşlarını yürüttü; tarihte eşi az görülen bir kan ve ateş imtihanından geçerek, kahraman bir savaşçı üstün bir kumandan olarak belirdi.
+
+Çanakkale'de görevini tamamlayıp oradan ayrılan Mustafa Kemal, o kanlı sırtlar üzerinden kopup İstanbul'a yönelirken artık eski Mustafa Kemal değildi. İstanbul'a geldiğinde anlamıştı ki, kendisine İstanbul'da yapacak iş yoktu İstanbul onun dilinden ve düşüncelerinden anlamayacaktı.
+
+Mustafa Kemal 13-14 Mart 1916'da Diyarbakır'a vardı. 1 Nisan 1916'da Mirlivalığa (Tuğgeneral) terfi ettirildi. Mustafa Kemal cepheyi devraldıktan bir süre sonra, Kozma dağı bölgesinden taarruza geçen Rus ordusu kanlı süngü savaşları ile geri püskürttüldü. Çeşitli harekattan sonra önce Muş sonra Bitlis düşmandan geri alındı. Bir ara aynı cephede 2 nci Ordu Kumandanlığına tayin oldu.
+
+31 Ekim 1918'de ise Limon Van Sanders'ten Yıldırım Ordular Komutanlığını aldığı gün harbin bittiğini öğrendi.
+
+3 Kasım 1918'de Mondros Antlaşmasının bir metnini istedi. Anlaşma şartlarını öğrendiği günlerde bir taraftan işgal kuvvetlerinin çıkardığı meselelerle uğraşırken diğer taraftan İzzet Paşa ile tartışmak ve ilgi çekici muhabereler ile meşgul idi. 7 Kasım 1918'de hem 7 nci ordu hem Yıldırım Ordular Komutanlığı lağvedildi. Mustafa Kemal vazifesiz kaldı. Bu arada İzzet Paşa, Mustafa Kemal'e o sıralarda İstanbul'da bulunmasının uygun olacağını bildirdi ve Mustafa Kemal Paşa İstanbul'a hareket etti. Adana treninden inipte Haydarpaşa rıhtımına ayak basınca karşılaştığı manzara şuydu; 55 düşman gemisi zafer bayraklarını açarak İstanbul limanına girmektedir. Ama bu manzara karşısında, bu hava içinde, kılı bile kıpırdamadan: "Geldikleri gibi giderler." dedi.
+
+1919'da Samsun ve havalisindeki yerli Rumlar, hele İngiliz ve Fransızların gölgesinde Yunan gemilerinin İstanbul sularına gelmelerinden, Karadeniz kıyılarında gösterişli bir şekilde dolaşmalarından cüret alarak müdafaasız Türk halkına saldırdılar. Halbuki Yunanlılara ve onlarla beraber işgal kuvvetlerine göre ise, Türkler Karadeniz kıyıları ile bilhassa Samsun ve Havalisindeki Rum'lara saldırıyordu.
+
+1919 Nisanında işgal kuvvetleri kumandanları hükümete bir nota vererek bu saldırıların önlenmesini istedi. Böylece hükümet telaşa düştü ve olaylar biraz tesadüflerin fakat daha çok Mustafa Kemal ile arkadaşlarının hesaplı hazırlıkları ile nihayet O'nun bu bölgeye 3 ncü Ordu Müfettişi olarak ve bizzat padişah ve Ferit Paşa tarafından gönderilmesi imkanını sağladı.
+
+Mustafa Kemal 16 Mayıs 1919'da İstanbul'dan hareket etti ve Samsun'a vardı.
+
+Bu varışını Nutkunda şöyle anlatır:
+
+"1335 (1919) senesi Mayısının 19'unda Samsun'a çıktım."
+
+
+
+<h2>CİLT 2 1919-1922 DÖNEMİ :</h2>
+
+
+
+Tek Adamın 2 nci cildi; 1919 Mayısının 19'unda SAMSUN kıyısında başlayan zorlu var oluş mücadelesinin 1922 EYLÜL'ünün 9'unda İZMİR kıyılarında zafer şarkıları ile noktalanışının öyküsüdür.
+
+Yollar vardır meçhulün önümüze serdiği çizgilerdir. Bu yollarda yolcu, talihinin tezgahında kendi kaderini dokur. Mustafa Kemal'in SAMSUN'da başlayıp ERZURUM'a, SİVAS'a çıkan ve sonra ANKARA'ya, İZMİR'e ulaşan yolculuğu da böyle bir yolculuktu. Bu yollar da O, talihi ile boğuştu. Kaderini dokudu ve Onun kaderi bizimde kaderimiz oldu.
+
+Mustafa Kemal Anadolu karasına ayak bastığı ilk günden itibaren kurtuluşun tek yolunun halkı inandırmaktan geçtiğine inanıyordu. Ve bunun için gerek SAMSUN'da gerekse Havza ve AMASYA'da halkın ileri gelenlerini bu işe inandırmaya çalıştı ve bu işte de büyük ölçüde başarılı olarak mücadelesine başladı.
+
+Atatürk'ün Anadolu karasında ilk önemli durağı ERZURUM'du. Asırlardan beri ilk defa İSTANBUL dışında Anadolu'nun bağrında ve yine onun bağrından kopup gelen bir grup vatanperver, Millet adına bazı kararlar alıyordu. Ve bu grup 1919 Temmuzunun 23'ünde Yapı Usta Okulunun tahta sıralarında Milletinin ebedi önderliğine getiriyordu Mustafa Kemali. Artık Onun her adımı Milletinin adımı, her sözü Milletinin sözü, İSTANBUL Hükümetine ve işgalci Avrupa'ya karşı her seslenişi, Milleti adına yapılmış bir sesleniş olacaktı. Ve O her geçen gün sesini yükseltmeye devam edecekti.
+
+"Milli Sınırlar İçinde Vatan Bir Bütündür Bölünemez" deniyordu ERZURUM'da, SİVAS'ta "Kuva-yı Milliyeyi amil Milli İradeye Hakim Kılmak Esastır, Merkezi Hükümet Milli İradeye Tabi Olmalıdır. Milli Meclis Toplanmalıdır." Halkın doğudan yükselen sesine batıdan da BALIKESİR, Alaşehir, Akhisar, Nazilli, DENİZLİ, Soma, BANDIRMA yörelerinden Kuva-yı Milliyenin sesi katılıyordu.
+
+Atatürk diyordu ki; "Umumi kaide şudur ki, genel durumu yönetme ve yürütme sorumluluğunu üzerine alanlar, en önemli hedef ve en yakın tehlikeye mümkün olduğu kadar yakın bulunurlar." Bahsettiği yer Milli Mücadelenin kalbi ANKARA idi. 27 Aralık 1919 günü ANKARA Halkı henüz 38 yaşındaki genç önderlerini sonsuz bir güvenle bağırlarına basıyordu. ANKARA'lıların coşkusu 23 NİSAN 1920 günü daha da artacaktı. Çünkü artık söz Milletindi. Bundan sonra Millet kendi adına konuşacak olanı kendisi seçecekti. 23 Nisan 1920 günü Mustafa Kemal'in deyimiyle "Hakikatlerin En Büyüğü" olan TÜRKİYE BÜYÜK MİLLET MECLİSİ açıldı. TBMM demek halkın sesi demekti, halkın nefesi demekti ve halk sessizliğini TBMM ile bozacaktı. Yüzyıllardan beri kendisini savaşma aracı olarak kullanan Osmanlı Hanedanına yeter diyecekti. Onun savaşı artık ne Osmanlı Hanedanına ganimet kazandırmak için ne de bilinmeyen duyulmayan ülkeler'de macera aramak için değildi. O artık sadece ülkesini işgal eden batı dünyasına karşı namusunu kurtarmak için savaşacaktı. Önce İstanbul Hükümeti parmağı ile çıkartılan 60 yakın irili ufaklı isyan bastırıldı birer birer. Bu isyanların bastırılması demek zaten tükenmek üzere olan Osmanlının sonu demekti, zira o son kozlarını oynuyordu Anadolu üzerinde ve yıkılış onun için kaçınılmazdı artık.
+
+Şimdi sıra, İngiliz güdümünde olan ve kendi hesabına göre çok kolay görünen Anadolu'nun işgali için sonu gelmez bir maceraya atılan ve Anadolu bozkırında yenilmeye mahkum Yunan Ordusuna geldi.
+
+Mustafa Kemal için askerlik bir sanattı. Mustafa Kemal kendine bu sanatı seçmişti. Kendini askerliğe vermişti ama savaşı seven, savaşı arayan bir kişi değildi. Günlük hayatında ve anılarında savaşı hiçbir zaman özlemedi..
+
+1 nci ve 2 nci İnönü Muharebeleri ile sadece düşman değil, Milletinin makus talihi de yenilmiş oldu. Daha sonra tarihin en uzun meydan muharebesinde Başkomutan sıfatıyla Sakarya da "Hattı Müdafaa Yoktur, Sathı Müdafaa vardır. O Satıh Bütün Vatandır." diyerek hem harp tarihine dehasını altın harflerle yazdırıyor, hem de Yunan Kuvvetlerinin Anadolu bozkırında giriştikleri bu maceranın onlar için nedenli acı bir yenilgiyle noktalanacağının adeta işaretlerini veriyordu Başkomutan Mustafa Kemal. Sakarya Zaferinden sonra bir yıl gibi uzun bir süre hazırlık yapan ordumuz nihayet Yunan Kuvvetlerini Anadolu'dan atmaya hazırdı. Biliyordu ki artık nihai zafer çok yakındı. 26 Ağustos sabahı Atasından aldığı "Ordular İlk Hedefiniz Akdeniz'dir İleri" emri ile Türk Orduları coşkun bir sel gibi Yunan Ordusunu öne katarak İZMİR'e kadar aktı.
+
+Mustafa Kemal emir komuta ettiği ordusuyla Avrupayı dize getirdi. Yaptığı tarihi bütün dünya tarih kitaplarına yazdı. Çünkü mensubu olduğu milletin tarihi dünyanın sahip olduğu en değerli varlıktı.
+
+
+
+<h2>CİLT-3 1922-1938 DÖNEMİ :</h2>
+
+
+
+1922'de muharebe meydanında biten Milli Mücadele, aslında yeni ve zorlu başka bir mücadeleyi başlattı. Silahını bırakan Gazi Mustafa Kemal'in yolunun üzerinde artık bir sıra aksiyon, fikir ve yeni kuruluşlar vardı.
+
+Savaşın bitmesini müteakip harbin galipleri bu milletin ters giden tarihini yendiğini masa başında da kabul etmek zorunda kaldılar. Artık Milletten kopmuş, çağın gereklerinden uzak, çürümüş bir gövdenin suyu geçmiş dalcıkları haline gelen gölge saltanat müessesesine ve onun uzantısı olan hilafete son verme zamanı gelmişti. Söz artık milletin olacaktı ve milletin olmalıydı. Yakın arkadaşlarının dahi endişelerine ve yer yer karşı koymalarına rağmen Mustafa Kemal saltanatı kaldırdı ve halifelik müessesesinin bir gölgeden ibaret olmasını sağladı. Çok geçmeden de hilafete son verdi.
+
+Barışı kazanmak, savaşı kazanmak kadar önemliydi. Yeni Türkiye'nin Lozan Antlaşması da bu değerde idi. Lozan'da büyük bir mücadele verildi ve asırlık hesaplar görüldü. Çünkü yeni kurulan devlet Osmanlı İmparatorluğunun bütün hesaplarını tasfiyesine muhatap tutuldu. Ama yeni Türkiye mirasçı ve herhangi bir devletin devamı değildi. İtilaf devletlerinin şuursuz istekleri ustaca savuşturuldu ve Türkiye Lozan'da çok önemli bir zafere imza attı.
+
+Yeni bir çocuk doğmuştu ve bu çocuğun adı konmalı idi. Hakimiyeti Milliye kayıtsız şartsız milletin olduğuna göre bu çocuğun adı Cumhuriyet olmalı idi. 29 Ekim 1923'de TBMM'de yapılan oylamada yeni kurulan devletin yönetim şekli Cumhuriyet olarak kabul edildi.
+
+Gazi Mustafa Kemal'in ikinci meclisi açış nutkunda "Devlet şeklinin tekamülü ve demokrasinin kuruluşu ile çağdaş müesseselerin meydana getirilmesi" hedeflerinden ilki gerçekleşmiş, sıra ikinciye gelmişti. Hilafetin kaldırılması ile bu yeniliklere başlandı. Fakat laikliğe gidişte en büyük adım olan bu inkılap yakın arkadaşlarının dahi daha kesin çizgilerle kendisine cephe almasına neden oldu. Başarılı olan her ihtilalden sonra ihtilâlci kadronun kendi içerisinde parçalanması gibi, Milli Mücadeleyi yapan kadroda bu parçalanmada nasibini aldı. Önderlik mücadelesi yapan kimseler özellikle hilafete olan bağlılığı kullanarak uzun yıllar boyunca Mustafa Kemal'i yıpratmaya çalıştılar.
+
+Doğuda "Dini kurtarmak ve halifeliği yeniden kurmak" adına Şeyh Sait tarafından çıkartılan isyan, memleketi en zayıf yerinden vurdu ve hızla yayıldı. Mustafa Kemal " Takrir-i sükun " yasasını çıkarttı ve isyan bastırıldı. Sorumlular istiklal mahkemesine verilerek cezalandırıldı. Yeni kurulan Cumhuriyet altı ok diye adlandırılan şu temel ilkeler üzerine inşa edilmeye başlandı: Cumhuriyetçilik,Milliyetçilik, Halkçılık,Devletçilik,Laiklik ve İnkılapçılık.
+
+Batılılaşmak adına yaptığı inkılaplardan en cüretlisi şapka inkılabıydı. Çünkü, o zamanki anlayışa göre şapka Hıristiyanlığın ve gavurluğun bir işareti sayılıyordu ve bu kökleşmiş duygulara yapılan hareket menfi reaksiyonlara en müsait hareketti. Şapka inkılabını hukuk alanında yaptığı yenilikler, medeni kanun ve tevhid-i tedrisat kanunu takip etti.
+
+Değişimi kaldıramayan şer ve kıskançlık güçleri onu İzmir'de öldürmek için pusu kurdular ama kurdukları tezgah kendilerini Yunanistan'a kaçıracak olan motorcu tarafından emniyete bildirildi. Sorumlular belirlendi ve mahkemece yargılandılar. Yargılananlar arasında Terakkiperver Fırka yöneticileri ve milli mücadelenin önemli simaları da vardı.
+
+Daha sonraki yıllar milli ekonomiye geçiş ve inkılap hareketlerinin devamı niteliğindeydi. Yeni alfabe kabul edildi ve Türk Dil Kurumu ile Türk Tarih Kurumu Gazinin büyük çabaları ile kuruldu. Ulaştırma ve sanayii alanında Devletçilik İlkesi doğrultusunda büyük atılımlar yapıldı. Dünyada ilk defa olarak 5 yıllık sanayi programları belirlenerek uygulamaya konuldu. Terakkiperver Cumhuriyet Fırkasından sonra Mustafa Kemal'in çabası ile Fethi Okyar tarafından Serbest Fırka bu bir demokrasiye geçme çabası idi ama başarılı olamadı ve parti kendisini lağv etti.
+
+Atatürk'ün son yıllarında HATAY onun büyük davalarından biri oldu. Hastalıktan bitkin düştüğü anlarda bile bu konu ile ilgilendi. Fakat sağlığında HATAY'ın Anavatana katılışını göremedi.
+
+Bir karaciğer yetersizliğinin ilk belirtileri 1937 yılı içerisinde meydana geldi. Hastalık önce yanlış teşhis edildi ve yanlış uygulamalarla vakit kaybedildi. Sonrasında ise geç kalınmıştı.
+
+Mustafa Kemal'in şahsında çağımız bir büyük adam yetiştirmiş ve onun ölümü ile yalnız TÜRKİYE değil dünya bir büyük evladını kaybetmiştir.
+
+Bükreş eski Metropolitinin dediği gibi;
+
+"Onun ölümünden sonra dünya artık eskisi kadar enteresan değildir."
+
+SONUÇ :
+
+<h1>A. KİTABIN ANA FİKRİ :</h1>
+
+Mustafa Kemal Atatürk'ün hayatı, eserleri, Türk ve Dünya Tarihi üzerindeki etkileri anlatılmakta.
+
+<h1>B. KİTABIN GETİRDİĞİ YENİLİKLER :</h1>
+
+Atatürk ve kurduğu Cumhuriyetin daha iyi ve doğru olarak anlaşılmasını sağlamıştır.
+
+<h1>C. KİTAP HAKKINDA GENEL DEĞERLENDİRME VE TEKLİFLER :</h1>
+
+Kitap; sade, her kesimden insanın kolayca anlayabileceği ve inkılap tarihimizi öğrenebileceği şekilde kaleme alınmıştır.
+</td>
+<td>
+</font>
+<div class="urbangreymenu">
+
+<h3 class="headerbar">KİTAPLAR</h3>
+<ul>
+<li><a href="yağmuru_beklerken.html">Yağmuru Beklerken</a></li>
+<li><a href="Tek_adam.html">Tek Adam</a></li>
+<li><a href="şu_çılgın_türkler.html">Şu Çılgın Türkler</a></li>
+<li><a href="sefiller.html">Sefiller</a></li>
+<li><a href="yılanların_öcü.html">Yılanların Öcü</a></li>
+
+
+
+</ul>
+<img width=200 height=250 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnRsyY-L8cDj8lesFX5X9Oxx5tHiCxrVvWfLmaya0dQB9vz2NT"/>
+<img width=200 height=250 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnRsyY-L8cDj8lesFX5X9Oxx5tHiCxrVvWfLmaya0dQB9vz2NT"/>
+<img width=200 height=250 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnRsyY-L8cDj8lesFX5X9Oxx5tHiCxrVvWfLmaya0dQB9vz2NT"/>
+<img width=200 height=250 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnRsyY-L8cDj8lesFX5X9Oxx5tHiCxrVvWfLmaya0dQB9vz2NT"/>
+<img width=200 height=250 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnRsyY-L8cDj8lesFX5X9Oxx5tHiCxrVvWfLmaya0dQB9vz2NT"/>
+<img width=200 height=250 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnRsyY-L8cDj8lesFX5X9Oxx5tHiCxrVvWfLmaya0dQB9vz2NT"/>
+<img width=200 height=250 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnRsyY-L8cDj8lesFX5X9Oxx5tHiCxrVvWfLmaya0dQB9vz2NT"/>
+<img width=200 height=250 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnRsyY-L8cDj8lesFX5X9Oxx5tHiCxrVvWfLmaya0dQB9vz2NT"/>
+<img width=200 height=250 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnRsyY-L8cDj8lesFX5X9Oxx5tHiCxrVvWfLmaya0dQB9vz2NT"/>
+<img width=200 height=250 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnRsyY-L8cDj8lesFX5X9Oxx5tHiCxrVvWfLmaya0dQB9vz2NT"/>
+<img width=200 height=250 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnRsyY-L8cDj8lesFX5X9Oxx5tHiCxrVvWfLmaya0dQB9vz2NT"/>
+<img width=200 height=250 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnRsyY-L8cDj8lesFX5X9Oxx5tHiCxrVvWfLmaya0dQB9vz2NT"/>
+
+</div></td>
+ </tr>
+</p>
+</table>
+</body>
+</html>
