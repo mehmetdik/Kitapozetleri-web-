@@ -1,0 +1,154 @@
+
+
+<html>
+<head>
+<title>KİTABLAR VE YAZARLARI</title>
+<style>
+div#alt { margin-bottom:10px; font-family:Tahoma; font-size:14px;}
+ul#ust { width:1200px; margin:5 auto; overflow:hidden; list-style:none; font-family:Tahoma; background-image: url(background.gif); }
+ul#ust li { float:left; margin:0 60px; height:14px; padding:10px 60px 15px 10px;}
+ul#ust li a:link, ul#ust li a:visited { font-weight:bold; color:#0000FF; text-decoration:none; }
+ul#ust li a:hover{ color:black; background-color:#FFF; border:5px inset red;}
+</style>
+<style type="text/css">
+
+
+
+
+.urbangreymenu{
+width: 200px;height: 2300px; /*width of menu*/
+}
+
+.urbangreymenu .headerbar{
+font: bold 13px Verdana;
+color: white;
+background: #606060 url(http://i.imgur.com/zyqcJ.gif) no-repeat 8px 6px; /*last 2 values are the x and y coordinates of bullet image*/
+margin-bottom: 0; /*bottom spacing between header and rest of content*/
+text-transform: uppercase;
+padding: 7px 0 7px 31px; /*31px is left indentation of header text*/
+}
+
+.urbangreymenu ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+margin-bottom: 0; /*bottom spacing between each UL and rest of content*/
+}
+
+.urbangreymenu ul li{
+padding-bottom: 3px; /*bottom spacing between menu items*/
+}
+
+.urbangreymenu ul li a{
+font: normal 15px Arial;
+color: black;
+background: #E9E9E9;
+display: block;
+padding: 10px 0;
+line-height: 20px;
+padding-left: 20px; /*link text is indented 8px*/
+text-decoration: none;
+}
+
+.urbangreymenu ul li a:visited{
+color: black;
+}
+
+.urbangreymenu ul li a:hover{ /*hover state CSS*/
+color: white;
+background: black;
+}
+
+</style>
+</head>
+<body bgcolor="black" background="http://i32.photobucket.com/albums/d19/xdomains/gfxback/1.jpg">
+
+<img  height=300 width=1330 src="tema/g.jpg"/>
+<div id="alt">
+<ul id="ust">
+<li><a href="index.html">Ana Sayfa</a></li>
+<li><a href="sefiller.html">En Çok Tıklanan Kitaba Git</a></li>
+<li><a href="kitaplar_ve_yazarları.html">Kitap ve Yazarları</a></li>
+<li><a href="web_iletişim.html">İletişim</a></li>
+</ul>
+</div>
+<table border=0>
+<tr>
+<td>
+<meta http-equiv="Content-Type" content="text/HTML; charset=utf-8" /><body background="kartvizit_256717.jpg"><div id="content" style="height:500px;width:150px;float:left;"></td>
+
+<td><div class="urbangreymenu">
+
+<h3 class="headerbar">KİTAPLAR</h3>
+<ul>
+<li><a href="bir_devrin_romanı.html">Bir Devrin Romanı</a></li>
+<li><a href="köprü.html">Köprü</a></li>
+<li><a href="bir_ölünün_defteri.html">Bir Ölünün Defteri</a></li>
+<li><a href="savaş_ve_barış.html">Savaş ve Barış</a></li>
+<li><a href="üç_istanbul.html">Üç İstanbul</a></li>
+
+
+
+</ul>
+
+
+
+</div></td>
+<td background="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4QuceUE11ryC_0C1Tyk4JN29652Y7R_AT5_HBBhFQ7PyFPj1j">
+<font color="black">
+<p >
+   <h2>Kitap Adı</h2>                  <h2>  Yazar adı</h2>
+
+1 - Hep ve Hiç                         <h2> Abdülhak Hamid Tarhan<br></h2>
+2 - Boğaziçi Mehtapları                 <h2>Abdülhak ginasi Hisar<br></h2>
+3 - Sessizliğin ilk sesi                <h2>Adalet Ağaoğlu<br></h2>
+4 - Yüksek Gerilim                      <h2>Adalet Ağaoğlu<br></h2>
+5 - Fikrimin ince gülü                  <h2>Adalet Ağaoğlu<br></h2>
+6 - Olasılıksız                         <h2>Adam Fawer<br></h2>
+7 - Empati                              <h2>Adam Fawer<br></h2>
+8 - Halikarnas Balıkçısı                <h2>Aganta Burina Burinata<br></h2>
+9 - Şark Ekspresi'nde Cinayet           <h2>Agatha Christie<br></h2>
+10- ORADA DA YILDIZLAR KAYAR MI         <h2>Ahmed Günbay Yıldız<br></h2>
+11- Bilinmeyen Osmanlı                  <h2>Ahmet Akgündüz<br></h2>
+12- Sorularla Ermeni Meselesi           <h2>Ahmet Akgündüz<br></h2>
+13- Kılıç yarası gibi                   <h2>Ahmet Altan<br></h2>
+14- En uzun gece                        <h2>Ahmet Altan<br></h2>
+15- Sudaki iz                           <h2>Ahmet Altan<br></h2>
+16 -Stratejik Derinlik                  <h2>Ahmet Davutoğlu<br></h2>
+18- Beş şehir                           <h2>Ahmet Hamdi Tanpınar<br></h2>
+19- Sahnenin DıGındakiler               <h2>Ahmet Hamdi Tanpınar<br></h2>
+20- Cennetle Müjdelenen On Sahabe       <h2>Ahmet Kurucan<br></h2>
+21- Şiirler                             <h2>Ahmet Kutsi Tecer<br></h2>
+22- Hüseyin Fellah                      <h2>Ahmet Mithat Efendi<br></h2>
+23- ESRARI CGNAYET                      <h2>AHMET MİTHAT EFENDİ<br></h2>
+24- Şiirler                             <h2>Ahmet Muhip Dıranas<br></h2>
+25- Ahmet Rasim Seti (3 Kitap Takım)    <h2>Ahmet Rasim<br></h2>
+26- Şehir Mektupları                    <h2>Ahmet Rasim<br></h2>
+
+-------------------------------------------------------------------------------------------------------------------
+
+</td>
+<td>
+</font>
+<div class="urbangreymenu">
+
+<h3 class="headerbar">KİTAPLAR</h3>
+<ul>
+<li><a href="yağmuru_beklerken.html">Yağmuru Beklerken</a></li>
+<li><a href="Tek_adam.html">Tek Adam</a></li>
+<li><a href="şu_çılgın_türkler.html">Şu Çılgın Türkler</a></li>
+<li><a href="sefiller.html">Sefiller</a></li>
+<li><a href="yılanların_öcü.html">Yılanların Öcü</a></li>
+
+
+
+</ul>
+
+<td>><meta http-equiv="Content-Type" content="text/HTML; charset=utf-8" /><body background="kartvizit_256717.jpg"><div id="content" style="height:500px;width:150px;float:left;"></td>
+
+</div></td>
+ </tr>
+</p>
+</table>
+</body>
+</html>
